@@ -1,0 +1,36 @@
+MusicLab Vol2
+
+Breathing
+
+
+07F3 - Percusions - 	DD_CA_F9
+E4CB - SingerChest - 	EE_55_A0
+BE59 - SingerAbdomen -	C5_5E_66
+36C4 - Harpist -  	D3_F4_A0
+
+Participants
+
+4051 - Ximena = EC_86_93 amaranth
+2B90 - Lucia  = E7_87_83 LN
+3841   Saxguy=	F4_0B_B4 
+9E94 - Nina = 	E7_07_0E ni
+24FD  suleika=	CA_B9_D8 | C0_19_4B
+B18E  tortuga=	F3_FC_2D
+
+
+Sensors:
+
+Musicians
+07F3 - Percusions - Chest
+E4CB - Singer - Chest
+BE59 - Singer - Abdomen
+36C4 - Harpist - Chest
+
+Participants
+
+2B90 - Lucia
+4051 - Ximena
+9E94 - Nina
+3841
+24FD
+B18E
